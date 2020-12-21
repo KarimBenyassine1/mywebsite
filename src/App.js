@@ -1,20 +1,20 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { HashRouter, Route, Switch } from 'react-router-dom';
 import Navbar from './components/Navbar/Navbar';
 import Projects from "./components/Projects/Projects";
 import Home from "./components/Home/Home"
 
 
 const App = () => (
-  <BrowserRouter>
+  <HashRouter baseName="/">
       <React.Fragment>
       <Navbar />
         <Switch>
-          <Route exact path="/mywebsite" component={Home}/>
-          <Route exact path="/projects" component={Projects}/>
+          <Route exact path="/" component={Home}/>
+          <Route path="/projects" component={Projects}/>
         </Switch>
       </React.Fragment>
-  </BrowserRouter>
+  </HashRouter>
 )
 
 
