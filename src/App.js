@@ -10,7 +10,7 @@ const App = () => (
       <React.Fragment>
       <Navbar />
         <Switch>
-          <Route exact path="/myportfolio" component={Home}/>
+          <Route exact path="/mywebsite" component={Home}/>
           <Route exact path="/projects" component={Projects}/>
         </Switch>
       </React.Fragment>
