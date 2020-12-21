@@ -6,7 +6,7 @@ import Home from "./components/Home/Home"
 
 
 const App = () => (
-  <HashRouter baseName="/">
+  <HashRouter basename="/">
       <React.Fragment>
       <Navbar />
         <Switch>
