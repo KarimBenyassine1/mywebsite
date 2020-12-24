@@ -1,0 +1,51 @@
+.website-wrapper{
+    margin-top: 20px;
+    letter-spacing: 0.04em;
+}
+
+.about-me-title {
+	font-size: 30px;
+    text-align: center;
+    color: #216bd6;
+    font-family: 'Gill Sans', sans-serif;
+}
+
+.projects-title {
+    margin-top: 200px;
+	font-size: 30px;
+    text-align: center;
+    color: #216bd6;
+    font-family: 'Gill Sans', sans-serif;
+}
+
+.card-wrapper{
+    margin: 30px auto;
+    position: relative;
+    width: 50%;
+    min-width: 700px;
+    background-color: #216bd6;
+    padding: 25px 40px 0px 15px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.body-wrapper{
+    display: grid;
+    grid-template-columns: 70% 30%;
+    
+}
+
+.image-wrapper{
+    margin-left: 10px;
+}
+
+.info-wrapper{
+    margin: auto;
+    margin-bottom: 200px;
+    color: white;
+}
+
+.see-projects{
+    position: relative;
+    bottom: 15px;
+    color: white;
+}

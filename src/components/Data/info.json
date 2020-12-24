@@ -1,0 +1,25 @@
+
+
+{
+    "AboutMe": "Welcome to my website! I’m a freshman at University of Calfornia, Santa Barbara studying Statistics and Data Science. I’m dedicated in creating full stack web applications with React and Node.js, and I am looking for an internship to improve my skills",
+    "BeckmanApp" : {
+        "title": "Beckman High School Admin App",
+        "description": [
+            "Programmed a Sign-in and Reset Password page with authentication to secure privacy for admins who wish to verify or deny a student's digitized id",
+            "Generated a list of students who have a verified school ID. includes filter feature."
+        ],
+        "imageUrl": "/images/login.png",
+        "linkTitle": "Video Demonstration",
+        "link": "https://drive.google.com/file/d/1MaHu948tBIjbxgpqVppZ3e-qxP6L8wiy/view?usp=sharing"
+    },
+    "AmazonChecker": {
+        "title": "Amazon Price Detector",
+        "description": [
+            "Designed and implemented a form using React that allows users to input their email and a link to an amazon product in order to send the user an email when the price of the product drops.",
+            "Built RESTful APIs with express in Node.js to send and retrieve information from a database"
+        ],
+        "imageUrl": "./amazon_checker.png",
+        "linkTitle": "Github Repo",
+        "link": "https://github.com/KarimBenyassine1/AmazonChecker"
+    }
+}
