@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Navbar.css";
 
-import Resume from '../Data/resume.pdf';
+import Resume from '../Data/Formal_Karim_Benyassine_Resume.pdf';
 
 class Navbar extends React.Component{
 
