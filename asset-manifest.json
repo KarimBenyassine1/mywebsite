@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mywebsite/static/css/main.c112b580.chunk.css",
-    "main.js": "/mywebsite/static/js/main.f7c14827.chunk.js",
-    "main.js.map": "/mywebsite/static/js/main.f7c14827.chunk.js.map",
+    "main.js": "/mywebsite/static/js/main.52a2e79e.chunk.js",
+    "main.js.map": "/mywebsite/static/js/main.52a2e79e.chunk.js.map",
     "runtime-main.js": "/mywebsite/static/js/runtime-main.a89aac38.js",
     "runtime-main.js.map": "/mywebsite/static/js/runtime-main.a89aac38.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/mywebsite/static/css/2.20aa2d7b.chunk.css",
@@ -12,16 +12,16 @@
     "static/css/2.20aa2d7b.chunk.css.map": "/mywebsite/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.c112b580.chunk.css.map": "/mywebsite/static/css/main.c112b580.chunk.css.map",
     "static/js/2.3426368f.chunk.js.LICENSE.txt": "/mywebsite/static/js/2.3426368f.chunk.js.LICENSE.txt",
+    "static/media/Formal_Karim_Benyassine_Resume.d5d3ab06.pdf": "/mywebsite/static/media/Formal_Karim_Benyassine_Resume.d5d3ab06.pdf",
     "static/media/amazon_checker.679804a8.png": "/mywebsite/static/media/amazon_checker.679804a8.png",
     "static/media/karim.3bb33bd0.PNG": "/mywebsite/static/media/karim.3bb33bd0.PNG",
-    "static/media/login.26ca9e27.png": "/mywebsite/static/media/login.26ca9e27.png",
-    "static/media/resume.fdccf2bc.pdf": "/mywebsite/static/media/resume.fdccf2bc.pdf"
+    "static/media/login.26ca9e27.png": "/mywebsite/static/media/login.26ca9e27.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a89aac38.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.3426368f.chunk.js",
     "static/css/main.c112b580.chunk.css",
-    "static/js/main.f7c14827.chunk.js"
+    "static/js/main.52a2e79e.chunk.js"
   ]
 }
